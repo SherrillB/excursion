@@ -19,7 +19,6 @@ h2 {
 }
 
 p {
-  color:white;
   text-align: center;
 }
 
@@ -28,7 +27,7 @@ p {
   text-align: right;
 }
 
-.download {
+#download {
   color: Aquamarine;
   font-size: 16px;
 }
@@ -36,6 +35,6 @@ p {
 #excursiontext {
   font-family: Verdana;
   font-size: 21px;
-  color: gray
+  color: gray;
   text-align:center;
 }
