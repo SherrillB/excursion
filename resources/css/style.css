@@ -2,10 +2,13 @@
   background-color: black;
 }
 
+body {
+  text-align: center;
+}
+
 h1, h2{
   color: white;
   font: Verdana;
-  text-align: center;
 }
 
 h1 {
@@ -14,12 +17,12 @@ h1 {
 }
 
 h2 {
-  font-weight: 300;
   font-size: 42px;
+  font-weight: 300;
 }
 
-.center {
-  text-align: center;
+.comingsoon {
+  font-weight: bold;
 }
 
 .copyright {
@@ -27,14 +30,13 @@ h2 {
   text-align: right;
 }
 
-#download {
+.download{
   color: Aquamarine;
   font-size: 16px;
 }
 
-#excursiontext {
+.excursiontext {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
-  text-align:center;
 }
